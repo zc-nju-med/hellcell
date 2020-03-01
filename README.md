@@ -1,4 +1,3 @@
-![image](https://github.com/zc-nju-med/hellcell/blob/master/QuantumultX/show.png）
 
 # hellcell
 QuantumultX深色模式图标组，基于QURE项目魔改:https://github.com/Koolson/Qure
