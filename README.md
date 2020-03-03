@@ -10,3 +10,4 @@ img-url=https://raw.githubusercontent.com/zc-nju-med/hellcell/master/QuantumultX
 #注意：此处“img”前需添加英文逗号和空格以及“图标名称.PNG”中的字母大写。
 
 初次整理，素材在缓慢更新中...
+![预览图](https://github.com/zc-nju-med/hellcell/blob/master/QuantumultX/show.png)
