@@ -16,6 +16,6 @@ img-url=https://raw.githubusercontent.com/zc-nju-med/hellcell/master/QuantumultX
 2、#QuantumultX小姐姐图标组# 正式上线！
 ![预览图](https://github.com/zc-nju-med/hellcell/blob/master/QuantumultX/AV.png)
 远程挂载方式同前，链接为：
-img-url=https://raw.githubusercontent.com/zc-nju-med/hellcell/master/QuantumultX/AV/图标名称.PNG
+img-url=https://raw.githubusercontent.com/zc-nju-med/hellcell/master/QuantumultX/AV/拼音名称.PNG
 
 #注意：GitHub 不支持远程中文调用，所有图片名称为拼音，中文无法识别！！！中文无法识别！！！中文无法识别！！！
