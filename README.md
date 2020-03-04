@@ -18,4 +18,4 @@ img-url=https://raw.githubusercontent.com/zc-nju-med/hellcell/master/QuantumultX
 远程挂载方式同前，链接为：
 img-url=https://raw.githubusercontent.com/zc-nju-med/hellcell/master/QuantumultX/AV/图标名称.PNG
 
-#注意：此处“img”前需添加英文逗号和空格以及“图标名称.PNG”中的字母大写。
+#注意：GitHub 不支持远程中文调用，所有图片名称为拼音，中文无法识别！！！中文无法识别！！！中文无法识别！！！
