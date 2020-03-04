@@ -12,9 +12,9 @@ img-url=https://raw.githubusercontent.com/zc-nju-med/hellcell/master/QuantumultX
 ![预览图](https://github.com/zc-nju-med/hellcell/blob/master/QuantumultX/show.png)
 初次整理，素材在缓慢更新中...
 
-![预览图](https://github.com/zc-nju-med/hellcell/blob/master/QuantumultX/AV.png)
-2、#QuantumultX小姐姐图标组# 正式上线！
 
+2、#QuantumultX小姐姐图标组# 正式上线！
+![预览图](https://github.com/zc-nju-med/hellcell/blob/master/QuantumultX/AV.png)
 远程挂载方式同前，链接为：
 img-url=https://raw.githubusercontent.com/zc-nju-med/hellcell/master/QuantumultX/AV/图标名称.PNG
 
