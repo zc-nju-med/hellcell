@@ -23,4 +23,4 @@ img-url=https://raw.githubusercontent.com/zc-nju-med/hellcell/master/QuantumultX
 
 # 更新日志
   - v0.1 2020-03-23
-  - 新增 Trojan 图标
+  - 深色模式图表组新增 Trojan 图标
