@@ -8,19 +8,19 @@
   - （注意：此处“img”前需添加英文逗号和空格以及“图标名称.PNG”中的字母大写。）
 ![预览图](https://github.com/zc-nju-med/hellcell/blob/master/QuantumultX/show.png)
 
+# 更新日志
+  - v0.2 2020-03-28
+    -  深色模式图表组新增布丁机场图标（Buding.PNG）、忍者云机场（Ninja.PNG）、熊猫云机场（Panda.PNG）
+  
+  - v0.1 2020-03-23
+    -  深色模式图表组新增 Trojan 图标、Spotify 图标
+
 # Quantumult X小姐姐图标组 正式上线！
 
   - 远程挂载方式同前，链接为：
   - img-url=https://raw.githubusercontent.com/zc-nju-med/hellcell/master/QuantumultX/AV/拼音名称.PNG
   - （注意：GitHub 不支持远程中文调用，所有图片名称为拼音，中文无法识别！！！中文无法识别！！！中文无法识别！！！）
 ![预览图](https://github.com/zc-nju-med/hellcell/blob/master/QuantumultX/AV.png)
-
-# 更新日志
-  - v0.2 2020-03-28
-    -  深色模式图表组新增布丁机场图标（Buding.PNG）
-  
-  - v0.1 2020-03-23
-    -  深色模式图表组新增 Trojan 图标、Spotify 图标
 
 # 免责声明
   - 本项目内所涉及的图标及女优相关元素、图标仅作为测试和学习使用；
