@@ -16,6 +16,9 @@
 ![预览图](https://github.com/zc-nju-med/hellcell/blob/master/QuantumultX/AV.png)
 
 # 更新日志
+  - v0.2 2020-03-28
+    -  深色模式图表组新增布丁机场图标（Buding.PNG）
+  
   - v0.1 2020-03-23
     -  深色模式图表组新增 Trojan 图标、Spotify 图标
 
