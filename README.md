@@ -10,6 +10,8 @@
 
 # 更新日志
 ![预览图](https://github.com/zc-nju-med/hellcell/blob/master/QuantumultX/airport.png)
+  - v0.2 2020-03-31
+    -  深色模式图表组新增卡车云（Kache.PNG）、佩奇家（Peiqi.PNG）
   - v0.2 2020-03-29
     -  深色模式图表组新增海豚湾图标（Dolphin.PNG）、轻云机场（Qingyun.PNG）、少数派机场（Shaoshupai.PNG）、SSRcloud
     机场（Ssrcloud.PNG）、云翼机场（Yunyi.PNG）、喵帕斯机场（Miaopasi.PNG）
