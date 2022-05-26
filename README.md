@@ -1,7 +1,8 @@
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 # Quantumult X深色模式图标组，基于QURE项目魔改
-
+  - 订阅链接:`https://raw.githubusercontent.com/Yuanxsxs/hellcell/master/QuantumultX_ICON.json`
+  - 订阅链接2:`https://raw.githubusercontent.com/Yuanxsxs/hellcell/master/QuantumultX_blackmini.json`
   - 本项目基于[QURE](https://github.com/Koolson/Qure)项目组，针对iOS的深色模型，进行了统一魔改
   - 对部分无法远程挂载的图标进行重新设计
   - img-url=https://raw.githubusercontent.com/zc-nju-med/hellcell/master/QuantumultX/ICON/图标名称.PNG
@@ -23,7 +24,7 @@
     -  深色模式图表组新增 Trojan 图标、Spotify 图标
 
 # Quantumult X小姐姐图标组 正式上线！
-
+  - 一键订阅，链接为: `https://raw.githubusercontent.com/Yuanxsxs/hellcell/master/QuantumultX_AV.json`
   - 远程挂载方式同前，链接为：
   - img-url=https://raw.githubusercontent.com/zc-nju-med/hellcell/master/QuantumultX/AV/拼音名称.PNG
   - （注意：GitHub 不支持远程中文调用，所有图片名称为拼音，中文无法识别！！！中文无法识别！！！中文无法识别！！！）
